@@ -1,2 +1,2 @@
 # Kaggles
-My Kaggle code
+My Kaggle code is simply a repo of any Kaggle work I complete.
